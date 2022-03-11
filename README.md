@@ -16,38 +16,20 @@ Additional description about the project and its features.
 ### Prerequisites
 
 - Node
-- Download the code from repository (https://github.com/Alexoid1/My-Code-Notes)
+- Download the code from repository (https://github.com/glebB01/my-electron-proj)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
 
-- Go to https://github.com/Alexoid1/My-Code-Notes and clone the repo using: <br>
-`https://github.com/Alexoid1/My-Code-Notes.git` in your terminal.
+- Go to https://github.com/glebB01/my-electron-proj and clone the repo using: <br>
+`https://github.com/glebB01/my-electron-proj.git` in your terminal.
 - Cd ./My-Code-Notes
 - Run `npm i` in your terminal.
 - Run `npm run make` in your terminal.
 - Cd /out/make/squirrel.['system']
 - Run  Setup.exe
-
-## Article
-
-- Article -: [Build a quick and easy desktop app with Electron](https://alex-zam.medium.com/build-your-desktop-app-quick-and-easy-with-electron-123ae7190559)
-
-## Live Version
-
-- Live (https://alexoid1.github.io/My-Code-Notes/)
-
-
-## Author
-
-👤 **Pablo Alexis Zambrano Coral**
-
-- Github: [@Alexoid1](https://github.com/Alexoid1)
-- Twitter: [@pablo_acz](https://twitter.com/pablo_acz)
-- Linkedin: [linkedin](https://www.linkedin.com/in/pablo-alexis-zambrano-coral-7a614a189/)
-
 
 
 ## Show your support
