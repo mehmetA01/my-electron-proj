@@ -24,7 +24,7 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps:
 
 - Go to https://github.com/mehmetA01/my-electron-proj and clone the repo using: <br>
-`https://github.com/mehmetA/my-electron-proj.git` in your terminal.
+`https://github.com/mehmetA01/my-electron-proj.git` in your terminal.
 - Cd ./My-Code-Notes
 - Run `npm i` in your terminal.
 - Run `npm run make` in your terminal.
